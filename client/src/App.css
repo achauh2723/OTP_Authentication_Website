@@ -1,0 +1,35 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.Container1{
+  background-color: powderblue;
+  height: 70px;
+  text-align: center;
+  align-content: center;
+}
+
+.Container2{
+  justify-content: center;
+  margin-top: 250px;
+}
+
+.Heading{
+  background-color: powderblue;
+  text-align: center;
+  height: 70px;
+  align-content: center;
+}
+
+.Btn{
+  width: 100px;
+  height: 40px;
+}
+
+.Con3{
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+}
